@@ -1,7 +1,7 @@
-import { Form } from './components/Form.js';
-import { Header } from './components/Header.js';
-import { Footer } from './components/Footer.js';
-import { Logo } from './components/Logo.js';
+import { Form } from './src/components/Form.js';
+import { Header } from './src/components/Header.js';
+import { Footer } from './src/components/Footer.js';
+import { Logo } from './src/components/Logo.js';
 
 // Importing the styles
 
