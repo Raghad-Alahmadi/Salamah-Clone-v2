@@ -1,0 +1,15 @@
+<svg id="BG_Pattern" data-name="BG Pattern" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1228" viewBox="0 0 1920 1228">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_24525" data-name="Rectangle 24525" width="1920" height="1228" fill="#fafafa"/>
+    </clipPath>
+  </defs>
+  <rect id="BG" width="1920" height="1228" fill="#fafafa"/>
+  <g id="Pattern" clip-path="url(#clip-path)">
+    <path id="Path_221953" data-name="Path 221953" d="M76.26,656.782l.046-574.4L218.264.413,360.227,82.378v574.4L218.3,738.747Z" transform="translate(1539.773 -157.748)" fill="rgba(190,190,190,0.16)"/>
+    <path id="Path_222068" data-name="Path 222068" d="M76.26,656.782l.046-574.4L218.264.413,360.227,82.378v574.4L218.3,738.747Z" transform="translate(1377.79 -436.748)" fill="rgba(190,190,190,0.14)"/>
+    <path id="Path_222069" data-name="Path 222069" d="M76.26,825.109,76.318,103.4,254.681.413,433.051,103.4V825.109L254.722,928.095Z" transform="translate(59.328 440.252)" fill="none" stroke="rgba(54,185,140,0.32)" stroke-width="1.5"/>
+    <path id="Path_221952" data-name="Path 221952" d="M30.654,631.777l.059-446.883L288.6,35.928,546.478,184.894V631.777l-257.8,148.967Z" transform="translate(-152.979 543.381)" fill="#f2f2f2"/>
+    <path id="Path_222067" data-name="Path 222067" d="M30.654,500.321,30.7,152.029l200.988-116.1,200.988,116.1V500.321l-200.923,116.1Z" transform="translate(160.934 758.824)" fill="rgba(224,224,224,0.24)"/>
+  </g>
+</svg>

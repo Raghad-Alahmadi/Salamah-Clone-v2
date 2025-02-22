@@ -1,0 +1,77 @@
+# Salamah Clone
+
+## Overview
+
+Salamah Clone is a project aimed at replicating the functionality of the original Salamah application. This project is designed to provide similar features and user experience, focusing on a permit requester registration form with dynamic field prefill, form validation, and submission using the Fetch API.
+
+## Features
+
+- **Dynamic Field Prefill:** Automatically fills form fields (e.g., Commercial Registration Number, Business Type, Email, Phone, etc.) when the user enters a company name that matches data from the API.
+- **Form Validation:** Ensures all required fields are filled out correctly before submission.
+- **Form Submission:** Submits form data to an API endpoint using the Fetch API, excluding sensitive fields like passwords.
+- **Success and Error Handling:** Displays success popups for successful submissions and error messages with animations for validation or API errors.
+- **Terms & Conditions Popup:** Provides a detailed Terms & Conditions popup for user agreement.
+- **Loading Spinner:** Shows a loading spinner during form submission to enhance user experience.
+
+## Installation
+
+To install and run the project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Raghad-Alahmadi/Salamah-Clone
+
+2. **Navigate to the project directory:**
+
+   ```bash
+    cd salamah-clone
+3. **Install dependencies:**
+
+   ```bash
+    npm install
+4. **Start the application:**
+
+   ```bash
+    npm start
+## Usage
+Once the application is running, follow these steps to use it:
+
+1. **Open the Application: Navigate to http://localhost:5173 in your browser.**
+
+2. **Fill Out the Form:**
+
+Enter the company name. If it matches data from the API, the form will automatically prefill fields like Commercial Registration Number, Email, Phone, City, Region, Zip Code, and Business Type.
+
+Fill in any remaining fields manually.
+
+3. **Agree to Terms & Conditions:** Click the "Terms & Conditions" link to review and agree to the terms.
+
+4. **Submit the Form:** Click the "Submit" button to submit the form. If successful, a success popup will appear, and the form fields will be cleared.
+
+5. **Handle Errors:** If there are validation errors or API issues, an error message will be displayed with a shake animation.
+
+## Contributing
+If you would like to contribute to this project, please follow these steps:
+
+1. **Fork the repository.**
+
+2. **Create a new branch:**
+    ```bash
+    git checkout -b feature-branch
+
+3. **Make your changes and commit them:**
+    ```bash
+    git commit -m "Description of changes"
+
+4. **Push to the branch:**
+
+    ```bash
+    git push origin feature-branch
+
+5. **Create a pull request.**
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For any questions or feedback, please contact Raghad Adnan.
