@@ -7,7 +7,7 @@ export class Logo {
 
     renderLogo() {
         const logoImage = document.createElement("img");
-        logoImage.src = "/assets/logo.svg"; 
+        logoImage.src = "logo.svg"; 
         logoImage.alt = "Logo";
         logoImage.className = "h-30 w-30"; 
 

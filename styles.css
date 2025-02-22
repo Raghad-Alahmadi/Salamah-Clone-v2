@@ -8,7 +8,7 @@ body {
 }
 
 .bg-custom-bg {
-    background-image: url('/assets/outer-bg.321110dec68f8427.svg'); /* Replace with the actual path to your background image */
+    background-image: url('outer-bg.321110dec68f8427.svg'); /* Replace with the actual path to your background image */
 }
 
 
