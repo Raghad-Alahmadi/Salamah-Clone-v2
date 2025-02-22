@@ -8,17 +8,15 @@ body {
 }
 
 .bg-custom-bg {
-    background-image: url('outer-bg.321110dec68f8427.svg'); /* Replace with the actual path to your background image */
+    background-image: url('outer-bg.321110dec68f8427.svg'); 
 }
-
 
 /* Dark mode styles for the body */
 body.dark-mode {
     @apply bg-gray-900 text-white;
-    background-image: none; /* Remove background image */
-    background-color: #111826; /* Set solid background color */
+    background-image: none; 
+    background-color: #111826; 
 }
-
 /* Dark mode overlay for custom background */
 body.dark-mode .bg-custom-bg::before {
     content: "";
